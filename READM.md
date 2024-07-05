@@ -25,3 +25,6 @@ Colosso de Rodes
 Ano de Criação: Cerca de 280 a.C.
 País: Grécia Ilha de Rodea
 
+Farol de Alexandria
+Ano de Criação: Cerca de 280 a.C.
+País: Egito

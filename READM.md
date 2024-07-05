@@ -15,4 +15,9 @@ País: Grécia
 Templo de Ártemis em Éfeso
 Ano de Criação: Cerca de 550 a.C.
 País: Turquia antiga Grécia
+Mausoléu de Halicarnasso
+
+Mausoléu de Halicarnasso
+Ano de Criação: Cerca de 350 a.C.
+País: Turquia antiga Grécia
 

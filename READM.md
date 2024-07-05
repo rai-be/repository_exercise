@@ -9,3 +9,8 @@ Jardins Suspensos da Babilônia
 
 Ano de Criação: Cerca de 600 a.C.
 País: Iraque antiga Babilônia
+
+Estátua de Zeus em Olímpia
+
+Ano de Criação: Cerca de 435 a.C.
+País: Grécia

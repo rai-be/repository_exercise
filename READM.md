@@ -1,16 +1,16 @@
-7 MARAVILHAS DO MUNDO
+:7 MARAVILHAS DO MUNDO
 
-Pirâmides de GizéTermos
+:Pirâmides de GizéTermos
 
 Ano de Criação: Cerca de 2580-2560 a.C.
 País: Egito
 
-Jardins Suspensos da Babilônia
+:Jardins Suspensos da Babilônia
 
 Ano de Criação: Cerca de 600 a.C.
 País: Iraque antiga Babilônia
 
-Estátua de Zeus em Olímpia
+:Estátua de Zeus em Olímpia
 
 Ano de Criação: Cerca de 435 a.C.
 País: Grécia

@@ -1,4 +1,6 @@
 |7 Maravilhas do Mundo|
 |---------------------|
-|Piramides de Gize    |
-|---------------------|
+|Nome| Ano de criacao|Pais|
+|-------------------------|
+|Piramides de Gize|2580-2560|
+|

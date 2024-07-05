@@ -21,3 +21,7 @@ Mausoléu de Halicarnasso
 Ano de Criação: Cerca de 350 a.C.
 País: Turquia antiga Grécia
 
+Colosso de Rodes
+Ano de Criação: Cerca de 280 a.C.
+País: Grécia Ilha de Rodea
+
